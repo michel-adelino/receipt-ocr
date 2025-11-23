@@ -1,24 +1,9 @@
 # Receipt OCR Engine
-
-[![Build Status](https://github.com/bhimrazy/receipt-ocr/actions/workflows/receipt-ocr.yml/badge.svg)](https://github.com/bhimrazy/receipt-ocr/actions/workflows/receipt-ocr.yml)
-[![Code Coverage](https://codecov.io/gh/bhimrazy/receipt-ocr/branch/main/graph/badge.svg)](https://codecov.io/gh/bhimrazy/receipt-ocr)
-[![License](https://img.shields.io/github/license/bhimrazy/receipt-ocr)](https://github.com/bhimrazy/receipt-ocr/blob/main/LICENSE)
-
 An efficient **OCR** engine for receipt image processing.
 
 This repository provides a comprehensive solution for **Optical Character Recognition (OCR)** on receipt images, featuring both a dedicated Tesseract OCR module and a general receipt processing package using LLMs.
 
 ![image](https://github.com/bhimrazy/receipt-ocr/assets/46085301/305df68d-50d8-41d4-81d0-9324966fb6c9)
-
-## Star History
-
-<a href="https://star-history.com/#bhimrazy/receipt-ocr&type=Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=bhimrazy/receipt-ocr&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=bhimrazy/receipt-ocr&type=Date&theme=dark" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bhimrazy/receipt-ocr&type=Date" />
- </picture>
-</a>
 
 ## Table of Contents
 
@@ -380,13 +365,6 @@ We welcome contributions to the Receipt OCR Engine! To contribute, please follow
 7.  **Commit your changes** with a clear and concise commit message.
 8.  **Push your branch** to your forked repository.
 9.  **Open a Pull Request** to the `main` branch of the upstream repository, describing your changes in detail.
-
-## LinkedIn Post
-
-- Gemini Docs: https://ai.google.dev/tutorials/python_quickstart
-- LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7145860319150505984/
-
-![image](https://github.com/bhimrazy/receipt-ocr/assets/46085301/ee4a0c82-f134-4a19-a275-93a59c7503b8)
 
 ## License
 
